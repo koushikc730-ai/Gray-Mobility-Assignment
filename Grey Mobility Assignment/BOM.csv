@@ -1,0 +1,12 @@
+Reference,Qty,Value,Part Number (MOUSER and LCSM),,,Footprint,
+"C1,C3",2,"470 uF, 50V; 220 uF, 35V",C369597; C22388078,,,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~
+C2,1,1000pF,C49326696,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+CR1,1,1N5825,C5338483,,,footprints:1N5825_MCH,1N5825
+D1,1,1N4001,C145305,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf
+D2,1,LED,941-C566EAFECV34Q342,,,LED_THT:LED_D5.0mm,~
+F1,1,4A,C2997155,,,Fuse:Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal,~
+"J1,J2",2,Screw_Terminal_01x02,651-1729128,,,"Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal",~
+L1,1,"68 uH, 3A",70-IFDC5050JZER680M,,,Inductor_THT:L_Radial_D13.5mm_P7.00mm_Fastron_09HCP,~
+"R1,R2",2,As required,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+R3,1,1K,C22548,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+U1,1,LM2596T-ADJ_Custom,C21149,,,Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical,http://www.ti.com/lit/ds/symlink/lm2596.pdf
